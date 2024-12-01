@@ -2,8 +2,7 @@
 A passionate **AI and Data Analytics enthusiast** pursuing **AI and Data Science** at **AISSMS IOIT**.  
 
 ## 🔍 What I Do  
-- **AI and Data Analytics:** Solving real-world problems with AI innovations.  
-- **Full-Stack Development:** Building web apps with the **MERN stack**.  
+- **AI and Data Analytics:** Solving real-world problems with AI innovations. 
 - **Software Development:** Writing, debugging, and optimizing efficient code.  
 
 ## 🌟 Projects and Interests  
