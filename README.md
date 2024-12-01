@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋 Hi, I'm Om Wakale, a passionate AI and Data Analytics enthusiast pursuing AI and Data Science at AISSMS IOIT.<br><br>🔍 What I Do<br>AI and Data Analytics: Solving real-world problems with AI innovations.<br>Full-Stack Development: Building web apps with the MERN stack.<br>Software Development: Writing, debugging, and optimizing efficient code.<br>🌟 Projects and Interests<br>Personalized Learning Platforms: Adaptive tools for effective learning.<br>ScreenSort: Organizing screenshots with AI and OCR.<br>Quiz Generator: Automating quizzes from PDF documents.<br>🚀 Currently Exploring<br>Python for data pipelines and large-scale optimization.<br>Machine learning for text and image analytics.<br>Integrating Flask, React, and AI APIs seamlessly.<br>📫 Let’s Connect<br>Explore my repos or reach out for exciting collaborations!
+# 👋 Hi there! I'm Om Wakale  
+A passionate **AI and Data Analytics enthusiast** pursuing **AI and Data Science** at **AISSMS IOIT**.  
+
+## 🔍 What I Do  
+- **AI and Data Analytics:** Solving real-world problems with AI innovations.  
+- **Full-Stack Development:** Building web apps with the **MERN stack**.  
+- **Software Development:** Writing, debugging, and optimizing efficient code.  
+
+## 🌟 Projects and Interests  
+- **Personalized Learning Platforms:** Adaptive tools for effective learning.  
+- **ScreenSort:** Organizing screenshots with AI and OCR.  
+- **Quiz Generator:** Automating quizzes from PDF documents.  
+
+## 🚀 Currently Exploring  
+- Python for **data pipelines** and **large-scale optimization**.  
+- Machine learning for **text and image analytics**.  
+- Integrating **Flask**, **React**, and **AI APIs** seamlessly.  
+
+## 📫 Let’s Connect  
+Explore my repos or reach out for exciting collaborations!
+"""
 
 
 ## 🌐 Socials:
